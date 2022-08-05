@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I currently work with Front-end & Cloud things and provide consulting for **[Tyk](https://tyk.io/docs/apim/)**
+I currently work on Front-end & Cloud stuff. I also provide consulting/sales for **[Tyk](https://tyk.io/docs/apim/)** in South Korea!
 
-- 💬 Ask me about **[Tyk](https://tyk.io/docs/apim/)**
+- 💬 Ask me about **[Tyk](https://tyk.io/docs/apim/)** 
 - 📫 How to reach me: 4hyun@gmail.com
 
 ## ⚡ Technologies
@@ -14,6 +14,7 @@ I currently work with Front-end & Cloud things and provide consulting for **[Tyk
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![nextjs](https://img.shields.io/badge/-nextjs-black?style=flat-square&logo=nextjs)
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=NestJS)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
