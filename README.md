@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I currently work on Front-end & Cloud stuff. I also provide consulting/sales for **[Tyk](https://tyk.io/docs/apim/)** in South Korea!
+I currently work on Front-end & Cloud stuff. I also provide consulting/sales for **[Tyk](https://tyk.io/docs/apim/)** in South Korea 
 
 - 💬 Ask me about **[Tyk](https://tyk.io/docs/apim/)** 
 - 📫 How to reach me: 4hyun@gmail.com
