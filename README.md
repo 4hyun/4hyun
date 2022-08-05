@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I currently work with Front-end & Cloud things and provide consulting for [Tyk](https://tyk.io/docs/apim/)
+I currently work with Front-end & Cloud things and provide consulting for **[Tyk](https://tyk.io/docs/apim/)**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
