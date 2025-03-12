@@ -3,7 +3,7 @@
 I currently work on Front-end & Cloud stuff. I also provide consulting/sales for **[Tyk](https://tyk.io/docs/apim/)** in South Korea 
 
 - 💬 Ask me about **[Tyk](https://tyk.io/docs/apim/)** 
-- 📫 How to reach me: 4hyun@gmail.com
+- 📫 How to reach me: 4hyun8@gmail.com
 
 ## ⚡ Technologies
 
